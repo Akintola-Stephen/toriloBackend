@@ -7,6 +7,7 @@ const loginMiddleWareObj = {
     loginMiddleware: (req, res, next) => {
         fs.readFile("./detail.json", "utf-8", (err, jsonString) => {
             if (err) {
+                console.log('gsgsg')
                 res.json({ "error": err.message })
             }
             const detailJSON = JSON.parse(jsonString)
