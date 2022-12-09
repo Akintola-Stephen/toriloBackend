@@ -1,0 +1,38 @@
+[
+    {
+        "firstName": "Joe",
+        "lastName": "Jackson",
+        "email": "sakintola3@gmail.com",
+        "gender": "male",
+        "age": 28,
+        "address": {
+            "streetAddress": "101",
+            "city": "San Diego",
+            "state": "CA"
+        },
+        "phoneNumbers": [
+            {
+                "type": "home",
+                "number": "7349282382"
+            }
+        ]
+    },
+    {
+        "firstName": "Akinola",
+        "lastName": "sTEPHEN",
+        "email": "akintola56@gmail.com",
+        "gender": "male",
+        "age": 98,
+        "address": {
+            "streetAddress": "101",
+            "city": "Nigeria",
+            "state": "LG"
+        },
+        "phoneNumbers": [
+            {
+                "type": "home",
+                "number": "7349282382"
+            }
+        ]
+    }
+]
